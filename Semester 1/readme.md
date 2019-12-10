@@ -2,7 +2,7 @@
 
 ```
 .
-├── {Semester 3}
+├── {Semester 1}
 │   └── {Materi}
 │       └── source
 │   └── {Tugas}
