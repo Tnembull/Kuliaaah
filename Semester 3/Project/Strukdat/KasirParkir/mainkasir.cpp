@@ -12,7 +12,7 @@ int main () {
 	int m, plat;
 	awal:
 	cout<<"============================="<<endl;
-	cout<<" PARKIRAN REDA MALL"<<endl;
+	cout<<" PARKIRAN UWESS SIP MANTAP"<<endl;
 	cout<<"============================="<<endl;
 	cout<<"Keterangan Biaya : "<<endl;
 	cout<<"Biaya Motor/jam : Rp. 3000"<<endl;
